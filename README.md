@@ -157,7 +157,3 @@ revenue_analysis/
 | High return rate | Paid Ads: 5.8% returns | Fix ad creatives | ₹2.1L/yr |
 
 **Total addressable margin opportunity: ₹18–22L annually**
-
----
-
-*Project by [Your Name] | Business Analyst | Python · Data Analysis · Revenue Optimization*
